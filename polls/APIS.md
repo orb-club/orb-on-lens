@@ -4,6 +4,13 @@
 
 API for creating and managing polls on Orb platform with Lens Protocol integration.
 
+## Identifying Poll Posts
+
+To detect if a post is a poll, match the smart contract address with unknown actions. No need for an api call.
+
+- **Mainnet**: `0x0B9507487800F0c385A240199fDf1d79131E8e25`
+- **Testnet**: `0x58C03173a0A71fb0e1AF00625E21f84CC799FC56`
+
 ## Base Configuration
 
 - **Endpoint**: `https://orbapi.xyz`
