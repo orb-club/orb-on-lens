@@ -15,3 +15,14 @@ Orb Polls Post Action with Lens Protocol
 See [APIS.md](./APIS.md) for complete API reference.
 
 See [examples](./examples) for how to use the RPC methods directly.
+
+### create post
+<img width="849" height="287" alt="image" src="https://github.com/user-attachments/assets/992afcdf-d666-48e1-a9a4-aedf345ef632" />
+
+
+### view voters
+<img width="237" height="438" alt="image" src="https://github.com/user-attachments/assets/877b9452-c863-45b6-ad90-c2086d815ae3" />
+
+
+### vote
+<img width="220" height="232" alt="image" src="https://github.com/user-attachments/assets/b978944e-fb8d-4763-a2b9-7a349dfc6664" />
