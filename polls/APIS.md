@@ -72,13 +72,19 @@ Retrieves poll results and voter information.
 
 ```json
 {
-  "id": "44069341992234832246863395894141716544314628013231814134125774786835062676448"
+  "id": "90154816511358858317916526721419341603714587558821199054448230925730767460736",
+  //"optionKey": 0, // keep empty. Only use for pagination
+  "cursor": null, // you need optionKey also for pagination
+  "limit": 25 // how many voters to return
 }
 ```
 
 **Fields:**
 
 - `id`: Poll publication ID
+- `optionKey`: Keep empty. Only use for pagination
+- `cursor`: You need optionKey also for pagination
+- `limit`: How many voters to return
 
 **Response:**
 
