@@ -12,3 +12,4 @@ Orb.club integrations with Lens Protocol.
 ## Examples
 
 - **[Basic Accounts Available](./examples/basic-accounts-available/)** - Query Lens API for accounts available by address (Next.js)
+- **[Basic File Upload](./examples/basic-file-upload/)** - Upload files to Lens Chain storage (Grove) with drag & drop (Next.js)
